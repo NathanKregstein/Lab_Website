@@ -1,0 +1,37 @@
+/* Add any css you want to use for you website here */
+.myclass1 {
+  margin-left: 25%;
+  margin-right: 25%;
+  color: #CFB87C;
+}
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  margin-left:25%;
+  margin-right: 25%;
+}
+
+
+th, td {
+  padding: 15px;
+}
+
+#botTable{
+	margin-top: 2%;
+		border-left: 0px;
+	border-right: 0px;
+
+}
+.botelement{
+	padding-left: 100px;
+	padding-right: 100px;
+	border-left: 0px;
+	border-right: 0px;
+	text-align: center;
+}
+.playerTable, .playerelement{
+	border: 0px;
+	border-top: 1px solid gray;
+}
+
